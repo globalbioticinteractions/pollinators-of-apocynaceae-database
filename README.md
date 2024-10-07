@@ -1,6 +1,8 @@
+# Pollinators of Apocynaceae Database
+
 [![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pollinators-of-apocynaceae-database&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pollinators-of-apocynaceae-database)
 
-Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
+Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index Pollinators of Apocynaceae Database as described in: 
 
 Ollerton J, Liede-Schumann S, Endress ME, Meve U, Rech AR, Shuttleworth A, Keller HA, Fishbein M, Alvarado-Cárdenas LO, Amorim FW, Bernhardt P, Celep F, Chirango Y, Chiriboga-Arroyo F, Civeyrel L, Cocucci A, Cranmer L, da Silva-Batista IC, de Jager L, Deprá MS, Domingos-Melo A, Dvorsky C, Agostini K, Freitas L, Gaglianone MC, Galetto L, Gilbert M, González-Ramírez I, Gorostiague P, Goyder D, Hachuy-Filho L, Heiduk A, Howard A, Ionta G, Islas-Hernández SC, Johnson SD, Joubert L, Kaiser-Bunbury CN, Kephart S, Kidyoo A, Koptur S, Koschnitzke C, Lamborn E, Livshultz T, Machado IC, Marino S, Mema L, Mochizuki K, Morellato LPC, Mrisha CK, Muiruri EW, Nakahama N, Nascimento VT, Nuttman C, Oliveira PE, Peter CI, Punekar S, Rafferty N, Rapini A, Ren ZX, Rodríguez-Flores CI, Rosero L, Sakai S, Sazima M, Steenhuisen SL, Tan CW, Torres C, Trøjelsgaard K, Ushimaru A, Vieira MF, Wiemer AP, Yamashiro T, Nadia T, Queiroz J, Quirino Z. The diversity and evolution of pollination systems in large plant clades: Apocynaceae as a case study. Ann Bot. 2019 Jan 23;123(2):311-325. doi: 10.1093/aob/mcy127. PMID: 30099492; PMCID: PMC6344220.
 
