@@ -1,0 +1,27 @@
+provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
+?,,hasFlowersVisitedBy,http://purl.obolibrary.org/obo/RO_0002623
+0,,hasFlowersVisitedBy,http://purl.obolibrary.org/obo/RO_0002623
+1,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+1?,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+1A,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+1B,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+2,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+2A,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+2AB,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+2B,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3?,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3(2),,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3(2)A,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3(4),,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3(4)A,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3A,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3B,,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+3 (herbivore),,pollinatedBy,http://purl.obolibrary.org/obo/RO_0002456
+4,,eats,http://purl.obolibrary.org/obo/RO_0002470
+4?,,eats,http://purl.obolibrary.org/obo/RO_0002470
+4(3),,eats,http://purl.obolibrary.org/obo/RO_0002470
+4(3)A,,eats,http://purl.obolibrary.org/obo/RO_0002470
+4(A),,eats,http://purl.obolibrary.org/obo/RO_0002470
+4A,,eats,http://purl.obolibrary.org/obo/RO_0002470
+4B,,eats,http://purl.obolibrary.org/obo/RO_0002470
