@@ -15,7 +15,7 @@
     "sourceBodyPartId": "http://purl.obolibrary.org/obo/PO_0009046",
     "delimiter" : ",",
     "headerRowCount" : 7,
-    "null" : [ "", "?" ],
+    "null" : [ "" ],
     "tableSchema" : {
       "columns" : [ {
         "name" : "Clade number",
