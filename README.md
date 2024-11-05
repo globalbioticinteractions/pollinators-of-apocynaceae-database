@@ -28,7 +28,7 @@ by extracting the first "sheet" from the suppl_supplementary_material-s02.xlsx i
 
 
 
-## Technical Metatadata
+## Technical Metadata
 
 This section is meant for machines, not for humans.
 
